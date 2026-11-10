@@ -1,0 +1,53 @@
+level,group,item,value,subgroup
+1,DOMESTIC INVESTMENTS,DOMESTIC INVESTMENTS,2776540.5744162085,
+2,DOMESTIC INVESTMENTS,1 Government,734656.3707852798,
+3,DOMESTIC INVESTMENTS,BCRP certificates,38205.67057385,1 Government
+3,DOMESTIC INVESTMENTS,Central government bonds,696450.7002114297,1 Government
+2,DOMESTIC INVESTMENTS,2. Financial System,694017.6520495543,
+3,DOMESTIC INVESTMENTS,CDs and term deposits (1),204098.94234801462,2. Financial System
+3,DOMESTIC INVESTMENTS,Debt securities issued by international org. in the local market (2),27387.443562191555,2. Financial System
+3,DOMESTIC INVESTMENTS,Debt securities Foreign Fin. Ent. –  issued in the local market ,38801.487905983726,2. Financial System
+3,DOMESTIC INVESTMENTS,Financial leasing bonds,14403.832848570053,2. Financial System
+3,DOMESTIC INVESTMENTS,Subordinated bonds,67514.45584863063,2. Financial System
+3,DOMESTIC INVESTMENTS,Other financial sector bonds,61458.38685579025,2. Financial System
+3,DOMESTIC INVESTMENTS,Mortgage-backed bills,0.0,2. Financial System
+3,DOMESTIC INVESTMENTS,Mortgage-backed bonds,868.2160842555252,2. Financial System
+3,DOMESTIC INVESTMENTS,Stock and instruments exercisable for stock,279484.8865961178,2. Financial System
+3,DOMESTIC INVESTMENTS,Preferred stock,0.0,2. Financial System
+3,DOMESTIC INVESTMENTS,Preferred subscription warrants,0.0,2. Financial System
+2,DOMESTIC INVESTMENTS,3. Nonfinancial Corporations ,1097565.8420984957,
+3,DOMESTIC INVESTMENTS,Commercial paper,0.0,3. Nonfinancial Corporations 
+3,DOMESTIC INVESTMENTS,LT guaranteed notes,8539.457405974745,3. Nonfinancial Corporations 
+3,DOMESTIC INVESTMENTS,Debt securities issued by foreign nonfinancial entities in the local market,49138.017821174035,3. Nonfinancial Corporations 
+3,DOMESTIC INVESTMENTS,Bonds issued by nonfinancial entities,273191.0671893797,3. Nonfinancial Corporations 
+3,DOMESTIC INVESTMENTS,Bonds for new projects ,12031.192351228145,3. Nonfinancial Corporations 
+3,DOMESTIC INVESTMENTS,Structured bonds,144.02759700000001,3. Nonfinancial Corporations 
+3,DOMESTIC INVESTMENTS,Stock and securities exercisable for stock,754522.079733739,3. Nonfinancial Corporations 
+3,DOMESTIC INVESTMENTS,Preferred subscription warrants,0.0,3. Nonfinancial Corporations 
+3,DOMESTIC INVESTMENTS,Privatization capital shares,0.0,3. Nonfinancial Corporations 
+3,DOMESTIC INVESTMENTS,Other authorized instruments (3),0.0,3. Nonfinancial Corporations 
+2,DOMESTIC INVESTMENTS,4. Investment Funds,115483.51573238638,
+3,DOMESTIC INVESTMENTS,Investment fund shares,101160.50603126638,4. Investment Funds
+3,DOMESTIC INVESTMENTS,Investment fund bonds,0.0,4. Investment Funds
+3,DOMESTIC INVESTMENTS,Mutual fund shares,14323.00970112,4. Investment Funds
+2,DOMESTIC INVESTMENTS,5. Securitization Companies,134817.19375049297,
+3,DOMESTIC INVESTMENTS,Securitization bonds,131550.02587489298,5. Securitization Companies
+3,DOMESTIC INVESTMENTS,Mortgage-backed bonds,0.0,5. Securitization Companies
+3,DOMESTIC INVESTMENTS,Securities evidencing equity interests,3267.1678755999997,5. Securitization Companies
+1,II. FOREIGN INVESTMENTS,II. FOREIGN INVESTMENTS,980808.4404523214,
+2,II. FOREIGN INVESTMENTS,1. Government ,86889.15975006881,
+3,II. FOREIGN INVESTMENTS,Debt securities,86889.15975006881,1. Government 
+2,II. FOREIGN INVESTMENTS,2. Financial System,147322.33844173886,
+3,II. FOREIGN INVESTMENTS,Financial system bonds,44519.08726309948,2. Financial System
+3,II. FOREIGN INVESTMENTS,Agency bonds,0.0,2. Financial System
+3,II. FOREIGN INVESTMENTS,Debt securities issued by international organization,0.0,2. Financial System
+3,II. FOREIGN INVESTMENTS,Supervisory Board and term deposits (1) (4),42669.688985609384,2. Financial System
+3,II. FOREIGN INVESTMENTS,Stock and instruments exercisable for stock,60133.56219302999,2. Financial System
+3,II. FOREIGN INVESTMENTS,Preferred shares,0.0,2. Financial System
+2,II. FOREIGN INVESTMENTS,3. Nonfinancial Corporations,501075.4112007237,
+3,II. FOREIGN INVESTMENTS,Corporate bonds,152537.46908162508,3. Nonfinancial Corporations
+3,II. FOREIGN INVESTMENTS,Stock and instruments exercisable for stock,348537.9421190986,3. Nonfinancial Corporations
+2,II. FOREIGN INVESTMENTS,4. Fund Managers,245521.53105979005,
+3,II. FOREIGN INVESTMENTS,Mutual funds,245521.53105979005,4. Fund Managers
+3,II. FOREIGN INVESTMENTS,Shares of investment funds,0.0,4. Fund Managers
+1,III. OPERATIONS IN TRANSIT,III. OPERATIONS IN TRANSIT,15799.92400871559,
